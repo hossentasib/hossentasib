@@ -44,7 +44,6 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Hossentasib GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hossentasib&show_icons=true&theme=synthwave" />
 
