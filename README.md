@@ -43,11 +43,8 @@
 <br />
 <br />
 
-<details>
-
   <img align="left" alt="Hossentasib GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hossentasib&show_icons=true&theme=synthwave" />
 
-</details>
 
 [website]: https://hossentasib.com
 [twitter]: https://twitter.com/hossentasib1
