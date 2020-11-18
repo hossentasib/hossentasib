@@ -1,7 +1,7 @@
 ### Hi there, I'm Hossen - aka [STAckCoder][website] 👋
 
 [![Website](https://img.shields.io/website?label=hossentasib.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://hossentasib.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/hossentasib1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/hossentasib1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhossentasib1&screen_name=hossentasib1)
 
 ## I'm a Student, Learner, and Developer!!
 
